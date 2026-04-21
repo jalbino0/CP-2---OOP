@@ -126,6 +126,16 @@ A exportação do diagrama foi realizada em **PNG**, conforme solicitado no trab
 
 ---
 
+# Imagem do Diagrama UML
+
+O diagrama UML do projeto foi desenvolvido no **Astah** e exportado em **PNG**, conforme solicitado no trabalho.
+
+
+![Diagrama UML do FiapDelivery](Class%20Diagram.png)
+
+---
+
+
 # Funcionalidades Implementadas
 
 ## Cadastro de objetos
